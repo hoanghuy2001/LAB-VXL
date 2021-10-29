@@ -1,0 +1,8 @@
+output_display.c:6:6:default_setting	16	static
+output_display.c:12:6:display7SEG	24	static
+output_display.c:110:6:traffic_light	24	static
+output_display.c:130:6:traffic_light_4	24	static
+output_display.c:141:6:mode_1	32	static
+output_display.c:159:6:mode_2	32	static
+output_display.c:174:6:mode_4	32	static
+output_display.c:190:6:mode_3	32	static

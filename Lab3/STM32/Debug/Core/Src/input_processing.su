@@ -1,0 +1,4 @@
+input_processing.c:10:5:Mode	4	static
+input_processing.c:13:6:increase_mode	4	static
+input_processing.c:17:6:reset_mode	16	static
+input_processing.c:24:6:fsm_for_input_processing	40	static
